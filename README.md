@@ -19,7 +19,6 @@ Além da área técnica, sou voluntária como intérprete de LIBRAS (Língua Bra
 Java:
 
 - [Bootcamp Java](https://github.com/thaisconto/Bootcamp-Java-Developer)&nbsp;
-
 - [Java Basico](https://github.com/thaisconto/java-basico)&nbsp;
 
 JavaScript: 
@@ -28,24 +27,30 @@ JavaScript:
 
 Python:
 
-- [Cursos Python]()&nbsp;
+- [Cursos Python](https://github.com/thaisconto/Python)&nbsp;
 
 ### Qualidade de Software
 
 Teoria: 
 
 - [Fundamentos](https://github.com/thaisconto/Fundamentos-QA)&nbsp;
-
 - [Bootcamp QA](https://github.com/thaisconto/Bootcamp-QA)&nbsp;
 
 Automacao:
 
 - [Cypress](https://github.com/thaisconto/Cypress)&nbsp;
-
 - [Robot](https://github.com/thaisconto/Robot)&nbsp;
-
 - [Postman](https://github.com/thaisconto/Testes-API)&nbsp;
 
+Tecnologo em Analise e Desenvolvimento de Sistema: 
+
+- [ADS](https://github.com/thaisconto/Curso-ADS)&nbsp;
+- [Banco de Dados](https://github.com/thaisconto/Curso-ADS/tree/main/Bando_Dados)&nbsp;
+- [JavaScript - WEB](https://github.com/thaisconto/Curso-ADS/tree/main/JavaScript_Web)&nbsp;
+- [POO](https://github.com/thaisconto/Curso-ADS/tree/main/POO)&nbsp;
+- [Programacao WEB - Typescript](https://github.com/thaisconto/Curso-ADS/tree/main/Programao_web)&nbsp;
+- [Python](https://github.com/thaisconto/Curso-ADS/tree/main/Python)&nbsp;
+  
 ##  
 ## 🛠 Techs & Tools
 ##  
