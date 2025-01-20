@@ -1,16 +1,51 @@
 ### Olá 👋
 ##  
-## About me
+## Sobre mim
 ##  
-Me chamo Thaís, e sou apaixonada por **Qualidade de Software**.
+Meu nome é Thaís e, durante minha pós-graduação em Gestão de Projetos, descobri uma grande afinidade pela área de Quality Assurance (QA). Desde então, venho me dedicando ao aprendizado e à prática dessa área, atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e atuando como estagiária em QA.
 
-Graduada em Engenharia Química com especialização em MBA em Gestão de Projetos, atualmente estou em transição de carreira para T.I. Busco ume desenvolver na área de Quality Assurance (QA) ou Analista de Testes. 
+Minha experiência inclui testes automatizados com Java/Selenium, testes manuais de API REST usando Postman, testes manuais de frontend, e consultas em SQL para análise e validação de dados. Sou comprometida com o aprimoramento contínuo e tenho como metas a certificação CTFL, o aperfeiçoamento do inglês e o aprofundamento em automação de testes de frontend.
 
-No momento estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, faço cursos em paralelo com foco em: linguagem e lógica de programação, análise e testes de software e banco de dados (SQL e NoSQL). 
+Além da área técnica, sou voluntária como intérprete de LIBRAS (Língua Brasileira de Sinais), contribuindo para a inclusão e desenvolvendo habilidades como proatividade, empatia e trabalho em equipe. Meu objetivo é me tornar uma especialista em QA, entregando soluções que garantam qualidade e valor aos projetos em que atuo.
 ##  
-## Connect me
+## Conecte-se comigo
 ##  
  <a href="https://www.linkedin.com/in/thaismarchetticonto/" style="margin-right: 1vw" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      <a href="http://discordapp.com/users/ThaisMarchetti#5851" style="margin-right: 1vw"  target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>      <a href = "mailto:thaaconto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+##  
+## Minha Jornada em Desenvolvimento e Qualidade
+##  
+### Linguagens de Programação
+
+Java:
+
+- [Bootcamp Java](https://github.com/thaisconto/Bootcamp-Java-Developer)&nbsp;
+
+- [Java Basico](https://github.com/thaisconto/java-basico)&nbsp;
+
+JavaScript: 
+
+- [Cursos JavaScript](https://github.com/thaisconto/JavaScript)&nbsp;
+
+Python:
+
+- [Cursos Python]()&nbsp;
+
+### Qualidade de Software
+
+Teoria: 
+
+- [Fundamentos](https://github.com/thaisconto/Fundamentos-QA)&nbsp;
+
+- [Bootcamp QA](https://github.com/thaisconto/Bootcamp-QA)&nbsp;
+
+Automacao:
+
+- [Cypress](https://github.com/thaisconto/Cypress)&nbsp;
+
+- [Robot](https://github.com/thaisconto/Robot)&nbsp;
+
+- [Postman](https://github.com/thaisconto/Testes-API)&nbsp;
+
 ##  
 ## 🛠 Techs & Tools
 ##  
