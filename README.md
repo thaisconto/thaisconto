@@ -2,9 +2,9 @@
 ##  
 ## Sobre mim
 ##  
-Meu nome é Thaís e, durante minha pós-graduação em Gestão de Projetos, descobri uma grande afinidade pela área de Quality Assurance (QA). Desde então, venho me dedicando ao aprendizado e à prática dessa área, atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e atuando como estagiária em QA.
+Prazer, me chamo Thaís e, sou QA Jr formada em Tecnólogo em Análise e Desenvolvimento de Sistemas com MBA em Gestão de Projetos.
 
-Minha experiência inclui testes automatizados com Java/Selenium, testes manuais de API REST usando Postman, testes manuais de frontend, e consultas em SQL para análise e validação de dados. Sou comprometida com o aprimoramento contínuo e tenho como metas a certificação CTFL, o aperfeiçoamento do inglês e o aprofundamento em automação de testes de frontend.
+Minha experiência inclui testes automatizados com Java (Selenium/RestAssured) e Cypress/JavaScript, testes manuais, de integração e exploratórios, e consultas e manipulação de banco de dados com SQL. Sou comprometida com o aprimoramento contínuo e tenho como metas a certificação CTFL, o aperfeiçoamento do inglês e o aprofundamento em automação de testes.
 
 Além da área técnica, sou voluntária como intérprete de LIBRAS (Língua Brasileira de Sinais), contribuindo para a inclusão e desenvolvendo habilidades como proatividade, empatia e trabalho em equipe. Meu objetivo é me tornar uma especialista em QA, entregando soluções que garantam qualidade e valor aos projetos em que atuo.
 ##  
@@ -14,6 +14,22 @@ Além da área técnica, sou voluntária como intérprete de LIBRAS (Língua Bra
 ##  
 ## Minha Jornada em Desenvolvimento e Qualidade
 ##  
+### Qualidade de Software
+
+Teoria: 
+
+- [Fundamentos](https://github.com/thaisconto/Fundamentos-QA)&nbsp;
+- [Bootcamp QA](https://github.com/thaisconto/Bootcamp-QA)&nbsp;
+
+Automacao:
+
+- [Cypress - E2E do zero](https://github.com/thaisconto/automacao-projeto-teste/tree/main/cypress/cypress)&nbsp;
+- [RestAssured/Java - API do zero](https://github.com/thaisconto/automacao-projeto-teste/tree/main/selenium-api)&nbsp;
+- [Cypress](https://github.com/thaisconto/Cypress)&nbsp;
+- [Robot](https://github.com/thaisconto/Robot)&nbsp;
+- [Postman](https://github.com/thaisconto/Testes-API)&nbsp;
+
+
 ### Linguagens de Programação
 
 Java:
@@ -28,19 +44,6 @@ JavaScript:
 Python:
 
 - [Cursos Python](https://github.com/thaisconto/Python)&nbsp;
-
-### Qualidade de Software
-
-Teoria: 
-
-- [Fundamentos](https://github.com/thaisconto/Fundamentos-QA)&nbsp;
-- [Bootcamp QA](https://github.com/thaisconto/Bootcamp-QA)&nbsp;
-
-Automacao:
-
-- [Cypress](https://github.com/thaisconto/Cypress)&nbsp;
-- [Robot](https://github.com/thaisconto/Robot)&nbsp;
-- [Postman](https://github.com/thaisconto/Testes-API)&nbsp;
 
 Tecnologo em Analise e Desenvolvimento de Sistema: 
 
